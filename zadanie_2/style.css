@@ -1,0 +1,8 @@
+button {
+    display: flex;
+    padding: 16px 24px;
+    font-size: 2.5rem;
+    border-radius: 8px;
+    color: rgb(94, 30, 197);
+    background-color: rgb(13, 170, 223);
+}
